@@ -18,6 +18,11 @@ docker build -t polsar-analysis .
 docker run -p 8888:8888 -v $(pwd)/data:/projects/data -v $(pwd)/src:/projects/src polsar-analysis
 ```
 ### Windows
+####Run as Default memory
 ```Shell
 docker run -p 8888:8888 -v ${PWD}/data:/projects/data -v ${PWD}/src:/projects/src polsar-analysis
+```
+#### If need to give more memory allocation to the jupyter server run the following
+```shell
+
 ```
