@@ -2,6 +2,10 @@
 
 
 
+
+How to run the Code? 
+* the code is being packaged in a ducker container.
+    
 ## Navigate to your project directory
 ```shell
 cd /path/to/project
