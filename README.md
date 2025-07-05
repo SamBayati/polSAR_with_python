@@ -1,6 +1,9 @@
 # polSAR_with_python
 
 
+This project is a vision transformer model combined with a vqa model which allows the user to select a region on a fully polirazed SAR image and ask questions regarding the scattering mechanisms of the SAR image of the selected area on the image.
+
+
 
 
 How to run the Code? 
